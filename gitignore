@@ -1,1 +1,5 @@
-venv
+# .gitignore
+similarity.pkl
+.venv/
+__pycache__/
+*.pyc
